@@ -1,3 +1,5 @@
 name: dummy
 version: 1.0.0
 description: Test purpose repo
+vcs: github
+repoOwner: mtag-io
